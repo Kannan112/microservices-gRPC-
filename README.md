@@ -19,5 +19,5 @@ The **Product Service** handles product-related functionalities such as adding p
 The **Order Service** is dedicated to the creation of orders. This microservice is designed to showcase the effective isolation of responsibilities within a microservices-based application. It specifically focuses on the "Create Order" feature.
 
 Feel free to explore each part of this repository to gain insights into building a robust microservices infrastructure using the Go programming language and various complementary technologies.
+![Sample Image](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*27q-rUMfeOFEi9KrFndjNg.png)
 
-https://miro.medium.com/v2/resize:fit:4800/format:webp/1*27q-rUMfeOFEi9KrFndjNg.png
